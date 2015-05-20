@@ -1,0 +1,72 @@
+body {
+	background-image: url('../images/readingshoppinglist.jpg');
+	background-size: cover;
+}
+
+.gandstuff {
+	float: right;
+	background-image: url('../images/groceriesandstuff.jpg');
+	background-repeat: no-repeat;
+	width: 214px;
+	height: 355px;
+	margin-right: 6em;
+	margin-top: 3em;
+}
+
+.wifenotes {
+	background-image: url('../images/wife-slider.jpg');
+	background-repeat: no-repeat;
+	background-size: 86%;
+	height: 270px;
+	margin-left: 43.5em;
+	padding-left: 1em;
+	margin-top: 2em;
+}
+
+.title {
+	color: white;
+	margin-left: 13rem;
+	padding-top: 2rem;
+	font-size: 2rem;
+}
+
+.userinput {
+	display: inline-block;
+	padding-top: 3em;
+	padding-left: 8em;
+}
+
+.list {
+	color: white;
+	margin-left: 17rem;
+	padding-top: 2.5rem;
+	font-size: 1.4rem;	
+}
+
+.description1 > p {
+	display: inline-block;
+	color: white;
+	font-size: 1.5em;
+}
+
+.checkbox {
+	margin-left: 6em;
+}
+.total {
+	margin-left: 9em;
+}
+.item1, .item1price {
+	padding: .5em;	
+}
+
+.total p {
+	display: inline-block;
+	color: white;
+	font-size: 1.5em;
+}
+
+/* .groceryitem {
+	padding-top: 1em;
+	padding-left: 12em;
+
+} */
